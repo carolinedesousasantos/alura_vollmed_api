@@ -1,0 +1,3 @@
+[submodule "vollmed_backend"]
+	path = vollmed_backend
+	url = https://github.com/carolinedesousasantos/vollmed_backend.git
